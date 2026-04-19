@@ -1,2 +1,2 @@
 # EntityContainer
-📦 Container | Entity 📦 
+📦 Contains the container entities 📦
